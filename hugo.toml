@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-uk'
+title = 'Blaine-McK.github.io'
+theme = 'ananke'
